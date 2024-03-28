@@ -10,7 +10,8 @@ CSS3
 This website is a great resource for those web browsers interested in learning more about **Horiseon** and what it has to offer as a marketing agency. It is an accessible, easy-to-navigate website that depicts certain values this agency holds; search engine optimization, online reputation management, and social media marketing. In only one page, you can get a clear idea of what Horiseon's goals are as a company.
 
 ## Credits
-(Make a README) [https://www.makeareadme.com/]
+- (Make a README)[https://www.makeareadme.com/]
+I used this website to help me create this README.
 
 ## License
 Please refer to the LICENSE in the repo.
