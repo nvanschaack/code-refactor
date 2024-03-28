@@ -1,6 +1,6 @@
 **incorporate a screenshot of a preview of the website**
 ## Description
-This (webpage's)[file:///Users/nellvanschaack/Documents/bootcamp/Challenges/code-refactor/index.html#social-media-marketing] code has been refactored to help future visitors and/or coders to easily navigate it. It was important to address accessibility concerns related to potential visitors of this website. Web accessibility is an increasingly important feature that needs to be accounted for when creating a website for your business. This means that there are assistive technologies incorporated into the foundational code to help users with disabilities navigate on their device. Having this feature will also better position the websites' ranking in a search engine like Google.
+This (webpage's)[file:///Users/nellvanschaack/Documents/bootcamp/Challenges/code-refactor/index.html#social-media-marketing] **why isn't this made into a hyperlink** code has been refactored to help future visitors and/or coders to easily navigate it. It was important to address accessibility concerns related to potential visitors of this website. Web accessibility is an increasingly important feature that needs to be accounted for when creating a website for your business. This means that there are assistive technologies incorporated into the foundational code to help users with disabilities navigate on their device. Having this feature will also better position the websites' ranking in a search engine like Google.
 
 ## Technologies Used
 HTML5
