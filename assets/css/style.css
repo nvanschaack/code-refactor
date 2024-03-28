@@ -32,10 +32,9 @@ header section {
     font-size: 20px;
 }
 
-/* delete this? */
-header section ul {
+/* header section ul {
     list-style-type: none;
-} 
+}  */
 
 header section ul li {
     display: inline-block;
