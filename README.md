@@ -1,6 +1,6 @@
 ![Preview of HoriSEOn](./assets/horiseon(1).png)
 ## Description
-This [webpage's](paste website URL once deployed) code has been refactored to help future visitors and/or coders to easily navigate it. It was important to address accessibility concerns related to potential visitors of this website. Web accessibility is an increasingly important feature that needs to be accounted for when creating a website for your business. This means that there are assistive technologies incorporated into the foundational code to help users with disabilities navigate on their device. Having this feature will also better position the websites' ranking in a search engine like Google.
+This [webpage's](https://nvanschaack.github.io/code-refactor/) code has been refactored to help future visitors and/or coders to easily navigate it. It was important to address accessibility concerns related to potential visitors of this website. Web accessibility is an increasingly important feature that needs to be accounted for when creating a website for your business. This means that there are assistive technologies incorporated into the foundational code to help users with disabilities navigate on their device. Having this feature will also better position the websites' ranking in a search engine like Google.
 
 ## Technologies Used
 HTML5,
